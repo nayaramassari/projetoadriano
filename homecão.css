@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+background-image:url(123.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color:#0FA725;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:1em;
+	padding:1em;
+text-align:center;
+ width:10;
+ height:5;
+	
+}
+
+
+fieldset{
+	
+  background-color:#E4ECE5;
+	
+	border-left-style:ridge;
+	font-size:30;
+	padding:30;
+	margin-top:100px;
+	
+	background-color:#58DC84;
+	width:500px;
+	height:600px;
+	padding:1em;
+	margin:0 auto;
+	border-radius:20px;
+	box-shadow:10px 10px 15px #66BF81;
+	margin-top:1em;
+
+	}
+
+
+
+br{
+	text-align:center;}
